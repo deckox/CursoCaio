@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akimura\\Dropbox\\Caio_C#\\Caio_Curso\\4\\4.csproj",
+      "projectUniqueName": "C:\\Users\\akimura\\Dropbox\\Caio_C#_Curso\\CursoCaio\\4\\4.csproj",
       "projectName": "4",
-      "projectPath": "C:\\Users\\akimura\\Dropbox\\Caio_C#\\Caio_Curso\\4\\4.csproj",
+      "projectPath": "C:\\Users\\akimura\\Dropbox\\Caio_C#_Curso\\CursoCaio\\4\\4.csproj",
       "packagesPath": "C:\\Users\\akimura\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akimura\\Dropbox\\Caio_C#\\Caio_Curso\\4\\obj\\",
+      "outputPath": "C:\\Users\\akimura\\Dropbox\\Caio_C#_Curso\\CursoCaio\\4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

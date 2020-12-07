@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akimura\\Dropbox\\Caio_C#\\Caio_Curso\\2\\2.csproj": {}
+    "C:\\Users\\akimura\\Dropbox\\Caio_C#_Curso\\CursoCaio\\2\\2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akimura\\Dropbox\\Caio_C#\\Caio_Curso\\2\\2.csproj": {
+    "C:\\Users\\akimura\\Dropbox\\Caio_C#_Curso\\CursoCaio\\2\\2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akimura\\Dropbox\\Caio_C#\\Caio_Curso\\2\\2.csproj",
+        "projectUniqueName": "C:\\Users\\akimura\\Dropbox\\Caio_C#_Curso\\CursoCaio\\2\\2.csproj",
         "projectName": "2",
-        "projectPath": "C:\\Users\\akimura\\Dropbox\\Caio_C#\\Caio_Curso\\2\\2.csproj",
+        "projectPath": "C:\\Users\\akimura\\Dropbox\\Caio_C#_Curso\\CursoCaio\\2\\2.csproj",
         "packagesPath": "C:\\Users\\akimura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akimura\\Dropbox\\Caio_C#\\Caio_Curso\\2\\obj\\",
+        "outputPath": "C:\\Users\\akimura\\Dropbox\\Caio_C#_Curso\\CursoCaio\\2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
