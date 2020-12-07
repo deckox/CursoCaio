@@ -1,0 +1,13 @@
+C:\Users\akimura\Dropbox\Caio_C#\Caio_Curso\Caio_Curso\bin\Debug\netcoreapp3.1\1.exe
+C:\Users\akimura\Dropbox\Caio_C#\Caio_Curso\Caio_Curso\bin\Debug\netcoreapp3.1\1.deps.json
+C:\Users\akimura\Dropbox\Caio_C#\Caio_Curso\Caio_Curso\bin\Debug\netcoreapp3.1\1.runtimeconfig.json
+C:\Users\akimura\Dropbox\Caio_C#\Caio_Curso\Caio_Curso\bin\Debug\netcoreapp3.1\1.runtimeconfig.dev.json
+C:\Users\akimura\Dropbox\Caio_C#\Caio_Curso\Caio_Curso\bin\Debug\netcoreapp3.1\1.dll
+C:\Users\akimura\Dropbox\Caio_C#\Caio_Curso\Caio_Curso\bin\Debug\netcoreapp3.1\1.pdb
+C:\Users\akimura\Dropbox\Caio_C#\Caio_Curso\Caio_Curso\obj\Debug\netcoreapp3.1\1.csprojAssemblyReference.cache
+C:\Users\akimura\Dropbox\Caio_C#\Caio_Curso\Caio_Curso\obj\Debug\netcoreapp3.1\1.AssemblyInfoInputs.cache
+C:\Users\akimura\Dropbox\Caio_C#\Caio_Curso\Caio_Curso\obj\Debug\netcoreapp3.1\1.AssemblyInfo.cs
+C:\Users\akimura\Dropbox\Caio_C#\Caio_Curso\Caio_Curso\obj\Debug\netcoreapp3.1\1.csproj.CoreCompileInputs.cache
+C:\Users\akimura\Dropbox\Caio_C#\Caio_Curso\Caio_Curso\obj\Debug\netcoreapp3.1\1.dll
+C:\Users\akimura\Dropbox\Caio_C#\Caio_Curso\Caio_Curso\obj\Debug\netcoreapp3.1\1.pdb
+C:\Users\akimura\Dropbox\Caio_C#\Caio_Curso\Caio_Curso\obj\Debug\netcoreapp3.1\1.genruntimeconfig.cache
