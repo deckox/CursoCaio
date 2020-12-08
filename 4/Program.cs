@@ -22,20 +22,17 @@ namespace _4
             var dateDDMMAA = dateAnyFormat.ToString("dd/MM/yyyy");
             var datePlusOneDay = dateAnyFormat.AddDays(1);
             var dateLessFourHours = dateAnyFormat.AddHours(-4);
-            //var date = "20201021T172410";
 
-
-            CultureInfo culture2 = new CultureInfo("en-US");
-           // string myDate2 = "20201021T172410";
-            var myDate2 = "20201021172410";
-           
-
+            var dateString = "20201021T172410";
+            DateTime myDate = DateTime.ParseExact(dateString, "yyyyMMddTHHmmss",
+                                        System.Globalization.CultureInfo.InvariantCulture);
 
             Console.WriteLine(dateAnyFormat);
             Console.WriteLine(dateDDMMAA);
             Console.WriteLine(datePlusOneDay);
             Console.WriteLine(dateLessFourHours);
-            
+            Console.WriteLine(myDate);
+
         }
     }
 }
